@@ -22,14 +22,12 @@ Windows Steps:
 3.  Double click runWindows.bat
     
 4.  On your console, go into the friends tab in Minecraft, and it should appear as a LAN world, connect to it.
+     
+5.  Click on the "BuildTheEarth.net" server listing, OR if you are on a Build Team not on the network, create a custom server with their IP
     
-5.  Then in the server console on your computer, type “op {your in game name}”, and hit enter
+6.  It should connect you to buildtheearth.net (or the build team)
     
-6.  Then on your console, type “/transferserver bedrock.buildtheearth.net” (or you can substitute bedrock.buildtheearth.net for the build team bedrock ip) and send it.
-    
-7.  It should connect you to buildtheearth.net (or the build team)
-    
-8.  You must do steps 3 - 7 every time you wish to join after this
+7.  You must do steps 3 - 6 every time you wish to join after this
     
 
   
@@ -47,14 +45,12 @@ Windows Steps:
 5.  In terminal do `bash runMacOS.sh`
     
 6.  On your console, go into the friends tab in Minecraft, and it should appear as a LAN world, connect to it.
+     
+7.  Click on the "BuildTheEarth.net" server listing, OR if you are on a Build Team not on the network, create a custom server with their IP
     
-7.  Then in the server console on your computer, type “op {your in game name}”, and hit enter
+8.  It should connect you to buildtheearth.net (or the build team)
     
-8.  Then on your console, type “/transferserver bedrock.buildtheearth.net” (or you can substitute bedrock.buildtheearth.net for the build team bedrock ip) and send it.
-    
-9.  It should connect you to buildtheearth.net (or the build team)
-    
-10.  You must do steps 3 - 9 every time you wish to join after this
+9.  You must do steps 3 - 8 every time you wish to join after this
     
 
   
