@@ -10,7 +10,7 @@ For this method you need either:
     
 3.   IOS device (read the last part)
     
-
+The devices above **do not** need minecraft
   
 
 Windows Steps:
